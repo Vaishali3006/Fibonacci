@@ -23,13 +23,6 @@ while i<20:
 print("end of range")
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
